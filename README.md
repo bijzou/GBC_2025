@@ -1,0 +1,2 @@
+-Climate data: Figure 2,Figure 8, Figure S12, Table S4
+-GBC_RTM: codes for reactive transport model, Figure 7, Figures S7-S11
